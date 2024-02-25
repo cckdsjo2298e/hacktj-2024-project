@@ -1,0 +1,9 @@
+{
+    "name": "HackTJ 2024",
+    "version": "1.0",
+    "permissions": ["scripting", "search", "storage", "notifications", "contextMenus", "activeTab"],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "manifest_version": 3
+  }
